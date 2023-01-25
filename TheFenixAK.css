@@ -1,0 +1,66 @@
+body{
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(240,230,140,1) 100%);
+}
+
+.formulario{
+	background-color: white;
+	width: 400px;
+	height: 420px;
+	border-radius: 10px;
+	text-align: center;
+	position: relative;
+	left: 30em;
+	top: 10em;
+	font-family: comic sans ms;
+}
+
+.formulario .form1{
+	height: 50px;
+	width: 300px;
+	border-radius: 8px;
+	border: none;
+	background: whitesmoke;
+}
+
+.formulario .form{
+	height: 30px;
+	width: 199px;
+	border-radius: 8px;
+	border: none;
+	background: whitesmoke;
+}
+
+.formulario .form2{
+	height: 30px;
+	width: 199px;
+	border-radius: 8px;
+	border: none;
+	background: whitesmoke;
+}
+
+.boton{
+	background-color: whitesmoke;
+	font-family: comic sans ms;
+	border-radius: 7px;
+	width: 60px;
+	border: solid 1.5px;
+}
+
+.boton:active{
+	background: #f1eeee;
+}
+
+.imagen{
+	position: relative;
+	width: 30px;
+	left: 31em;
+	bottom: 16em;
+}
+
+.imagen2{
+	position: relative;
+	width: 30px;
+	left: 50em;
+	bottom: 259px;
+}
+
